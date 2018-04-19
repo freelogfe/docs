@@ -1,0 +1,15 @@
+# Ignore .git folder
+.git*
+.idea*
+# Ignore all Windows, Linux and OSX special files
+# https://www.gitignore.io/api/windows,linux,osx,vim
+# Ignore all your language-specific build folders
+node_modules/
+doc/
+.vscode/
+.DS_Store
+
+*.iml
+*.ipr
+*.iws
+*.log
